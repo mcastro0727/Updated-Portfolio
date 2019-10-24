@@ -216,28 +216,6 @@ body {
 	border: 0 none;
   }
   
-  /* #link {
-	margin-bottom: 20px;
-	font-family: Georgia, Times, "Times New Roman", serif;
-	font-weight: 700;
-	color: #4aaaa5;
-	font-size: 22px;
-	padding-bottom: 20px;
-	margin-bottom: 15px;
-	line-height: 22px;
-	border-bottom: 2px solid #eeeeee;
-	position: absolute;
-	bottom: 20px;
-	width: 100%;
-	padding: 15px;
-	margin-bottom: 0;
-	font-weight: 300;
-	line-height: 30px;
-	color: #ffffff;
-	text-align: center;
-	background: #4aaaa5;
-	border-bottom: 0;
-  } */
 
 
   @media only screen and (max-width: 980px) {}
